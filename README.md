@@ -54,7 +54,6 @@ Our primary line of communication is text messaging and Slack channel. We also u
 - Which features offer the most correlation and thus lead to a better model score?
 
 
-![presentation](https://docs.google.com/presentation/d/1x3NDea1T3S9geG-pe38FU7BDHbWDCkHsx8GR0FOjFt0/edit?userstoinvite=kyleleeschneider%40gmail.com&ts=60248fab#slide=id.p)
 
 
 

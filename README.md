@@ -27,7 +27,15 @@ Our primary line of communication is text messaging and Slack channel. We also u
 
 ### Description Of Data Exploration & Analysis
 
+**Exploratory Analysis**
+
+Used Tableau Public to create charts that would help us futher understand the dataset; whether there were correlations between the data features; if the correlations were strong or weak; and assist with feature selection.
+
+While we were not able to create charts that would help us answer our question, we did find that there were more vintage ratings in 2016 than any other year, vintage ratings betwween 4.0 and 4.1 were more prevalent, and winery Domaine Leflaive had the highest count of vintage ratings.
+
 <div class='tableauPlaceholder' id='viz1613967823797' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Gr&#47;Group1_Final&#47;Story1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Group1_Final&#47;Story1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Gr&#47;Group1_Final&#47;Story1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div>               
+
+[Interactive Dashboard](https://public.tableau.com/views/Group1_Final/Story1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
 
 **Preprocessing**
 - Used pyodbc to create a connection to our SQL server and Pandas to initiated the DataFrame
@@ -55,6 +63,8 @@ Our primary line of communication is text messaging and Slack channel. We also u
 
 - Can we accurately predict the vintage ratings of wines using a linear regression model?
 - Which features offer the most correlation and thus lead to a better model score?
+
+[Speaker Slides](https://docs.google.com/presentation/d/e/2PACX-1vQPmKY26O4CQ9BzVrygJ3-PpNhL09dB32gKA-x5rtPS9l8oPRCexouum2ilnekg_CXoJAaQpU48t_go/pub?start=false&loop=true&delayms=3000)
 
 
 
